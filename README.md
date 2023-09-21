@@ -1,5 +1,5 @@
 # *Hello fellas, I'm **Suchismita** :)*
-<h3 align="left">I'm a computer science engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.</h3>
+<h3 align="left"> I'm a computer science engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day. </h3>
 
 ## Connect with me
 <p align="center">
