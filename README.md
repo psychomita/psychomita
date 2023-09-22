@@ -1,10 +1,11 @@
-# *Hello fellas, I'm **Suchismita** :)*
-I'm a computer science engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
+# *Hola mi amigo :)*
+I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
 
 ## Connect with me
 <p align="center">
+<a href="https://fb.com/suchi1429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suchi1429" height="30" width="40" /></a>
+<a href="https://instagram.com/psychomita" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psychomita" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suchismita-connects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchismita-connects" height="30" width="40" /></a>
-<a href="https://instagram.com/psychomita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psychomita" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suchismita29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suchismita29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suchismitabose29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suchismitabose29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pyschomita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pyschomita" height="30" width="40" /></a>
@@ -18,9 +19,10 @@ I'm a computer science engineering undergrad from Kolkata, India. Since my schoo
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=psychomita&" alt="psychomita" /></p>
 
+<br><br><br><br><br><br><br><br><br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psychomita&label=Profile%20views&color=0e75b6&style=flat" alt="psychomita" /> </p>
 
-<img src="https://raw.githubusercontent.com/psychomita/psychomita/output/snake.svg" alt="Snake animation" />
 
 *[Contact me](mailto:suchismitabose29@gmail.com) if we can discuss or work upon something, or if you wanna just share a coffee!*
 
