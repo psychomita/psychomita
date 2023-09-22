@@ -1,9 +1,6 @@
 # *Hola mi amigo :)*
 I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
 
-## Connect with me
-
-</p>
 
 ## Tech Stack I use
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode)](https://skillicons.dev)
