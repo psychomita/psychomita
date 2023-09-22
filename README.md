@@ -2,23 +2,21 @@
 I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
 
 ## Connect with me
-<p align="center">
-<a href="https://fb.com/suchi1429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suchi1429" height="30" width="40" /></a>
-<a href="https://instagram.com/psychomita" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psychomita" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suchismita-connects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchismita-connects" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suchismita29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suchismita29" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suchismitabose29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suchismitabose29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pyschomita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pyschomita" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suchismitfnd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suchismitfnd2" height="30" width="40" /></a>
+
 </p>
 
-## Languages & Tools
+## Tech Stack I use
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode)](https://skillicons.dev)
+
+## My Workspace
+![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/AMD%20Ryzen_5_5600H-green)
+![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
+
 ## My GitHub Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=psychomita&show_icons=true&locale=en" alt="psychomita" /></p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=psychomita&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=psychomita&" alt="psychomita" /></p>
-
+<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=psychomita&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
 <br><br><br><br><br><br><br><br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psychomita&label=Profile%20views&color=0e75b6&style=flat" alt="psychomita" /> </p>
