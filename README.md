@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://media.giphy.com/media/sNUWF7fAUP2q4/giphy.gif" alt="Logo" /> </p>
+
 # *Hola mi amigo :)*
 I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
 
