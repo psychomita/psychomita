@@ -3,7 +3,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode,github)](https://skillicons.dev)
 
 ## My Workspace
 ![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
