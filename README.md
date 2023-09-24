@@ -2,7 +2,7 @@
 I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
 
 
-## Tech Stack I use
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode)](https://skillicons.dev)
 
 ## My Workspace
@@ -10,7 +10,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 ![](https://img.shields.io/badge/AMD%20Ryzen_5_5600H-green)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
-## My GitHub Statistics
+## GitHub Statistics
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psychomita&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 
 <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=psychomita&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
