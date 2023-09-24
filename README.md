@@ -16,7 +16,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=psychomita&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
 <br><br><br><br><br><br><br><br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psychomita&label=Profile%20views&color=0e75b6&style=flat" alt="psychomita" /> </p>
+![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)<img src="https://komarev.com/ghpvc/?username=psychomita&label=Profile%20views&color=0e75b6&style=flat" alt="psychomita" /> </p>
 
 
 *[Contact me](mailto:suchismitabose29@gmail.com) if we can discuss or work upon something, or if you wanna just share a coffee!*
