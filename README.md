@@ -4,23 +4,22 @@
 I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in Coding & Web-Development and exploring new technologies every day.
 
 ## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/suchismita-connects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchismita-connects" height="30" width="40" /></a>
-<a href="https://fb.com/suchi1429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suchi1429" height="30" width="40" /></a>
-<a href="https://instagram.com/psychomita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psychomita" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/psychomita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="psychomita" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suchismitabose29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suchismitabose29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/psychomita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="psychomita" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suchismitfnd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suchismitfnd2" height="30" width="40" /></a>
-</p>
-
+[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/psychomita)
+[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=EF2F88)](https://instagram.com/psychomita)
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/suchismita-connects)
+[![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=Spotify&logoColor=white&color=36AE7C)](https://open.spotify.com/user/31lvd3f6xwjksgd6x3kqda3li4a4?si=e9ed27d54e6148a2)
+[![](https://img.shields.io/badge/Reddit-informational?style=flat&logo=Reddit&logoColor=white&color=C70039)](https://www.reddit.com/user/psychomita)
+[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=LeetCode&logoColor=white&color=001524)](https://leetcode.com/psychomita/)
+[![](https://img.shields.io/badge/CodeChef-informational?style=flat&logo=CodeChef&logoColor=white&color=9F8772)](https://www.codechef.com/users/suchismita29)
+[![](https://img.shields.io/badge/GeeksForGeeks-informational?style=flat&logo=GeeksForGeeks&logoColor=white&color=379237)](https://auth.geeksforgeeks.org/user/suchismitfnd2/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode,github)](https://skillicons.dev)
 
 ## My Workspace
-![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/AMD%20Ryzen_5_5600H-green)
+![](https://img.shields.io/badge/Vivobook_16X-informational?style=flat&logo=Asus&logoColor=white&color=153462)
+![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Ryzen_5_5600H-informational?style=flat&logo=AMD&logoColor=white&color=black)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
 ## GitHub Statistics
