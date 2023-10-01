@@ -30,6 +30,8 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/psychomita)
 ![](https://komarev.com/ghpvc/?username=psychomita)
+<a href="https://github.com/psychomita?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 *[Contact me](mailto:suchismitabose29@gmail.com) if we can discuss or work upon something, or if you wanna just share a coffee!*
 
