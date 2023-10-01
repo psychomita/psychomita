@@ -7,9 +7,9 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 [![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/suchi1429)
 [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=EF2F88)](https://instagram.com/psychomita)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/suchismita-connects)
-[![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=Spotify&logoColor=white&color=36AE7C)](https://open.spotify.com/user/31lvd3f6xwjksgd6x3kqda3li4a4?si=e9ed27d54e6148a2)
-[![](https://img.shields.io/badge/Reddit-informational?style=flat&logo=Reddit&logoColor=white&color=C70039)](https://www.reddit.com/user/psychomita)
-[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=LeetCode&logoColor=white&color=001524)](https://leetcode.com/psychomita/)
+[![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=Spotify&logoColor=36AE7C&color=black)](https://open.spotify.com/user/31lvd3f6xwjksgd6x3kqda3li4a4?si=e9ed27d54e6148a2)
+[![](https://img.shields.io/badge/Reddit-informational?style=flat&logo=Reddit&logoColor=C70039&color=white)](https://www.reddit.com/user/psychomita)
+[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=LeetCode&logoColor=FFB000&color=001524)](https://leetcode.com/psychomita/)
 [![](https://img.shields.io/badge/CodeChef-informational?style=flat&logo=CodeChef&logoColor=white&color=9F8772)](https://www.codechef.com/users/suchismita29)
 [![](https://img.shields.io/badge/GeeksForGeeks-informational?style=flat&logo=GeeksForGeeks&logoColor=white&color=379237)](https://auth.geeksforgeeks.org/user/suchismitfnd2/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
