@@ -14,7 +14,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 [![](https://img.shields.io/badge/GeeksForGeeks-informational?style=flat&logo=GeeksForGeeks&logoColor=white&color=379237)](https://auth.geeksforgeeks.org/user/suchismitfnd2/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode,github,discord)](https://skillicons.dev)
 
 ## My Workspace
 ![](https://img.shields.io/badge/Vivobook_16X-informational?style=flat&logo=Asus&logoColor=white&color=153462)
