@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/sNUWF7fAUP2q4/giphy.gif" alt="Logo" /> </p>
 
 # *Hola mi amigo :)*
-I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in DSA & Development and exploring new technologies every day.
+I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in DSA, Competitive Programming & Development and exploring new technologies every day.
 
 ## Connect with me
 [![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/suchi1429)
