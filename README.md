@@ -11,7 +11,6 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 [![](https://img.shields.io/badge/Reddit-informational?style=flat&logo=Reddit&logoColor=C70039&color=white)](https://www.reddit.com/user/psychomita)
 [![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=LeetCode&logoColor=FFB000&color=001524)](https://leetcode.com/psychomita/)
 [![](https://img.shields.io/badge/Codechef-informational?style=flat&logo=Codechef&logoColor=white&color=9F8772)](https://www.codechef.com/users/suchismita29)
-[![](https://img.shields.io/badge/GeeksForGeeks-informational?style=flat&logo=GeeksForGeeks&logoColor=white&color=379237)](https://auth.geeksforgeeks.org/user/suchismitfnd2/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 [![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=E72929&color=0E46A3)](https://codeforces.com/profile/psychomita)
 
 ## Tech Stack
