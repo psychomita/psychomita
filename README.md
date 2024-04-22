@@ -14,7 +14,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 [![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=E72929&color=0E46A3)](https://codeforces.com/profile/psychomita)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode,github,discord,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,vscode,github,discord,ubuntu,vercel)](https://skillicons.dev)
 
 ## My Workspace
 ![](https://img.shields.io/badge/Vivobook_16X-informational?style=flat&logo=Asus&logoColor=white&color=153462)
