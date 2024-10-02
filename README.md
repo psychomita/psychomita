@@ -35,7 +35,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 ![](https://komarev.com/ghpvc/?username=psychomita)
 <a href="https://github.com/psychomita?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
 
-*[Contact me](mailto:suchismitabose29@gmail.com) if we can discuss or work upon something!*
+*[Contact me](mailto:suchismitabosework@gmail.com) if we can discuss or work upon something!*
 
 ## You can support me by ....
 <p align="center"><a href="https://www.buymeacoffee.com/psychomita"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="psychomita" /></a><a href="https://ko-fi.com/psychomita"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="psychomita" /></a></p><br><br>
