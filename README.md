@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h3bDhzc2FldXJ2bTA2aHNoemF4Mnc0ZWlibzc4dGs3ZGFqa3A2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Logo" /> </p>
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif" height="250" width="400" frameborder="0" scrolling="no" " alt="Logo" /> </p>
 
 # *Hola mi amigo :)*
 I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my school-time, I have been passionate about programming and problem solving. Currently, I am working on my skills in DSA, Competitive Programming & Web Development and exploring new technologies every day.
