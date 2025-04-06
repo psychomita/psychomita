@@ -13,7 +13,7 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 [![](https://img.shields.io/badge/Codechef-informational?style=flat&logo=Codechef&logoColor=white&color=9F8772)](https://www.codechef.com/users/suchismita29)
 [![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=E72929&color=0E46A3)](https://codeforces.com/profile/psychomita)
 
-## Tech Stack
+## Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,typescript,tailwind,bun,react,vscode,discord,ubuntu,vercel)](https://skillicons.dev)
 
 ## My Workspace
