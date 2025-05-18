@@ -23,16 +23,20 @@ I'm **Suchismita Bose**, an engineering undergrad from Kolkata, India. Since my 
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
 ## GitHub Statistics
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psychomita&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psychomita&locale=en&hide_title=false&title_color=ffffff&card_width=400&langs_count=8&bg_color=161b22&stroke=FFFFFF&text_color=c9cacc&hide_border=false&border=FFFFFF&hide_progress=true" width="49%" />
 </p>
 
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/psychomita)
 ![](https://komarev.com/ghpvc/?username=psychomita)
 <a href="https://github.com/psychomita?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
+
+# LeetCode Statistics
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/psychomita?theme=dark&font=Pontano%20Sans&ext=heatmap)
 
 *[Contact me](mailto:suchismitabosework@gmail.com) if we can discuss or work upon something!*
 
