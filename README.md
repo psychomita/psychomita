@@ -24,12 +24,18 @@ I'm **Suchismita Bose**, an CS undergrad from Kolkata, India. I'm interested in 
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
 ## GitHub Statistics
-<p align="left">
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=psychomita&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
+</p>
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psychomita&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psychomita&locale=en&hide_title=false&title_color=ffffff&card_width=400&langs_count=8&bg_color=161b22&stroke=FFFFFF&text_color=c9cacc&hide_border=false&border=FFFFFF&hide_progress=true" width="49%"/>
 </p>
-<p align="right">
+<!-- <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psychomita&locale=en&hide_title=false&title_color=ffffff&card_width=400&langs_count=8&bg_color=161b22&stroke=FFFFFF&text_color=c9cacc&hide_border=false&border=FFFFFF&hide_progress=true" width="49%" />
-</p>
+</p> -->
 
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/psychomita)
 ![](https://komarev.com/ghpvc/?username=psychomita)
