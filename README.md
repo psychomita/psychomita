@@ -49,3 +49,7 @@ I'm **Suchismita Bose**, an CS undergrad from Kolkata, India. I'm interested in 
 
 ## You can support me by ....
 <p align="center"><a href="https://www.buymeacoffee.com/psychomita"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="psychomita" /></a><a href="https://ko-fi.com/psychomita"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="psychomita" /></a></p><br><br>
+
+## 🧩 Fun Fact
+
+> ⚡ I make computers understand humans, teach algorithms to be clever, and still find time to overthink commit messages.
