@@ -53,5 +53,3 @@ I'm **Suchismita Bose**, an CS undergrad from Kolkata, India. I'm interested in 
 ## 🧩 Fun Fact
 
 > ⚡ I try to make computers understand humans, teach algorithms to be clever, and still find time to overthink commit messages.
-
-https://drive.google.com/file/d/1OqPcHH22fhE4XpQmrn8Sx94sOLXsv9-4/view?usp=drivesdk
