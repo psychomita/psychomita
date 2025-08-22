@@ -43,7 +43,12 @@ I'm **Suchismita Bose**, an CS undergrad from Kolkata, India. I'm interested in 
 
 # LeetCode Statistics
   
+<div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psychomita?theme=dark&font=Pontano%20Sans&ext=heatmap)
+
+</div>
+
 
 *[Contact me](mailto:suchismitabosework@gmail.com) if we can discuss or work upon something!*
 
